@@ -31,3 +31,5 @@
     <priority>0.8</priority>
   </url>
 </urlset>
+
+google-site-verification: google91acf7c688dc32e5.html
